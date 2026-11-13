@@ -4,8 +4,13 @@
 open [sysette.com](https://sysette.com) in Chrome, Edge or Opera, and read every preset in one go.
 Nothing to install, nothing uploaded.
 
-The first supported instrument is the **Sequential Take 5**; more synths and effects pedals are being added.
-Write to info@sysette.com to ask for yours.
+## Supported instruments
+
+- **Sequential Take 5**: tested on a real unit, with a live panel editor.
+- In beta, the SysEx format checked byte for byte against the maker's factory banks: Sequential
+  Prophet-6, Trigon-6, Prophet Rev2, Pro 3, Prophet-5 and Prophet-10, Oberheim OB-6 and TEO-5.
+
+Each one has its page on [sysette.com](https://sysette.com). Write to info@sysette.com to ask for yours.
 
 ## Free: the librarian
 
@@ -34,5 +39,8 @@ command when it detects the problem.
 
 ---
 
-Sysette is independent and not affiliated with Sequential. Synth names are trademarks of their owners.
+Sysette is proprietary, closed-source software: this repository holds its description, not its code.
+The librarian is free to use; the full version is a one-time purchase.
+
+Sysette is independent and not affiliated with Sequential or Oberheim. Synth names are trademarks of their owners.
 Published by Growing Peas. Questions: info@sysette.com.
